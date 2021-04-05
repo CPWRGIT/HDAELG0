@@ -103,7 +103,7 @@
 *********  IF IT'S NOT A LEAP YEAR AND RUN DAY IS 28TH IT'S END OF MONTH
 *********
          3000-HANDLE-FEB.
-             DIVIDE RUN-YY BY 4
+             DIVIDE RUN-YY BY 0
                  GIVING HOLD-YEARS
                  REMAINDER EXTRA-YEARS.
              IF EXTRA-YEARS = 0
