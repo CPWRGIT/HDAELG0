@@ -12,7 +12,7 @@
       *  OUTPUT FILE - EMPLOYEE COMPENSATION REPORT                    *
       *              - REGIONAL SALES REPORT                           *
       *                                                                *
-      *  Version 0002 - 04/05/2021                                      ELG
+      *  Version 0003 - 04/06/2021                                      ELG
       *                                                                 ELG
       *  RUN JCL     - STORED IN THE ECC SLCXCNTL FILE - LAUNCHCX      *ELG
       *                                                                *
