@@ -7,7 +7,7 @@
       *  THIS CALLED PROGRAM IS PART OF THE COBOL DEMO PROGRAM USED    *
       *  FOR XPEDITER/TSO TRAINING SESSIONS                            *
       *                                                                 ELG
-      *  Version 0010 - 04/12/2021                                      ELG
+      *  Version 0011 - 04/12/2021                                      ELG
       *                                                                *
       ******************************************************************
        ENVIRONMENT DIVISION.                                            
