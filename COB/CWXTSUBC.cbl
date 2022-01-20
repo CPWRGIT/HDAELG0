@@ -10,7 +10,7 @@
       *  CALCULATES COMMISIONS FOR SALES AND MANAGEMENT EMPLOYEE       *
       *  BASED ON MONTHLY SALES RATES                                  *
       *                                                                *
-      *   Version 0013 - 01/20/2022                                     EG
+      *   Version 0014 - 01/20/2022                                     EG
       ******************************************************************
        ENVIRONMENT DIVISION.                                            
        DATA DIVISION.                                                   
