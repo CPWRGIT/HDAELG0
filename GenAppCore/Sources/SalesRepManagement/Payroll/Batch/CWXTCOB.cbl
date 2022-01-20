@@ -15,7 +15,7 @@
       *  RUN JCL     - STORED IN XPEDITER/TSO SAMPLIB (CWXTJCLC)       *
       *                                                                 ELG
       *                                                                 ELG
-      *  Version 0012 - 05/31/2021                                      EG
+      *  Version 0020 - 01/20/2022                                        EG
       *                                                                *
       ******************************************************************
        ENVIRONMENT DIVISION.                                            
