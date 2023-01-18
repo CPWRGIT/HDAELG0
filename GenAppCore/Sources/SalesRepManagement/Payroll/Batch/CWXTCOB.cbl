@@ -13,9 +13,9 @@
       *              - REGIONAL SALES REPORT                           *
       *                                                                *
       *  RUN JCL     - STORED IN XPEDITER/TSO SAMPLIB (CWXTJCLC)       *
-      *                                                                 ELG
-      *                                                                 ELG
-      *  Version 0020 - 01/20/2022                                        EG
+      *                                                                *
+      *                                                                * 
+      *  Version 0020 - 01/20/2022                                     *
       *                                                                *
       ******************************************************************
        ENVIRONMENT DIVISION.                                            
